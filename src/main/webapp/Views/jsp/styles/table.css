@@ -1,0 +1,54 @@
+
+input:required:focus {
+	border: 1px solid red;
+	outline: none;
+}
+
+#title {
+	color: #2f4f4f;
+}
+
+table {
+	font-family: Arial, sans-serif;
+}
+
+thead {
+	letter-spacing: 0.2em;
+	word-spacing: 0.25em;
+}
+
+tr {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+td {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#tableBody {
+	letter-spacing: 0.1em;
+	word-spacing: 0.25em;
+	font-size: 0.75em;
+}
+
+.light-bg {
+	background: #d3d3d3 !important;
+}
+
+.table-button {
+	background-color: transparent;
+	margin: 0;
+	border: 0;
+	font-size: 1em;
+	width: 100%;
+}
+
+.table-button:hover {
+	background-color: transparent;
+}
+
+#statusMsg {
+	font-size: 1em;
+}
